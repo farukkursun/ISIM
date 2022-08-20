@@ -1,0 +1,49 @@
+.genel {
+  background-color: pink;
+  height: 42rem;
+  width: 80rem;
+}
+.satir {
+  background-color: gray;
+  height: 6rem;
+  width: 8rem;
+  margin: 1rem;
+
+  display: inline-block;
+}
+.satir1sol {
+  display: inline-block;
+}
+.satir1sag {
+  display: inline-block;
+  float: right;
+}
+.sag {
+  background-color: gray;
+  height: 6rem;
+  width: 8rem;
+  margin: 1rem;
+  display: inline-block;
+  float: right;
+}
+.sol {
+  background-color: gray;
+  height: 6rem;
+  width: 8rem;
+  margin: 1rem;
+  display: inline-block;
+}
+.satir3sag {
+  display: inline-block;
+  float: right;
+}
+.satir3sol {
+  display: inline-block;
+}
+.satir5sol {
+  display: inline-block;
+}
+.satir5sag {
+  display: inline-block;
+  float: right;
+}
